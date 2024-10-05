@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713159073959",
+    "project_id": "crudfirey",
+    "storage_bucket": "crudfirey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713159073959:android:f1e8b7ea5f3b560bb8fb82",
+        "android_client_info": {
+          "package_name": "com.example.crudfirey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQO2eMsEGNVUS_J9grkNvbIkE5iJa7gnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
